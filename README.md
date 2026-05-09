@@ -60,10 +60,3 @@ The pre-launch hook automatically scans your resourcepacks folder and loads all 
 The profile path will be different from Modrinth. Navigate to your instance folder and use that path instead of the ModrinthApp path.
 
 ---
-
-## Pictures
-
-> 1. Screenshot of the Modrinth hooks settings screen
-> 2. Screenshot of the Prism Launcher hooks settings screen
-> 3. Screenshot of the game running in borderless window with resource packs active and high FPS visible
-> 4. Screenshot of the in-game Options menu showing VSync as disabled
