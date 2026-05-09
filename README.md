@@ -60,3 +60,4 @@ The pre-launch hook automatically scans your resourcepacks folder and loads all 
 The profile path will be different from Modrinth. Navigate to your instance folder and use that path instead of the ModrinthApp path.
 
 ---
+![Game running in borderless window](images/ingame.png)
