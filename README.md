@@ -29,7 +29,7 @@ VulkanMod is a Minecraft mod that replaces the OpenGL renderer with Vulkan, givi
 
 > Supported launchers: **Modrinth**, **Prism Launcher**, **MultiMC**, **ATLauncher**
 
-*(See pictures below for where to find the hooks settings in Modrinth and Prism)*
+![Modrinth hooks settings](images/modrinth-hooks.png)
 
 ---
 
